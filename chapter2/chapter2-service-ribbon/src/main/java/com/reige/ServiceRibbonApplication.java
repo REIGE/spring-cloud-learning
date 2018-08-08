@@ -15,8 +15,10 @@ public class ServiceRibbonApplication {
         SpringApplication.run(ServiceRibbonApplication.class, args);
     }
 
+    /**
+     * 使用 @LoadBalanced 添加负载均衡的能力
+     */
     @Bean
-    // 添加负载均衡的能力
     @LoadBalanced
     RestTemplate restTemplate() {
         return new RestTemplate();
