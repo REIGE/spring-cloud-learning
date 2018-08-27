@@ -12,9 +12,9 @@
 	<description>Demo project for Spring Boot</description>
 
 	<modules>
-		<module>eureka-server</module>
-		<module>service-hi</module>
-		<module>service-feign</module>
+		<module>chapter3-eureka-server</module>
+		<module>chapter3-service-hi</module>
+		<module>chapter3-service-feign</module>
 	</modules>
 
 </project>

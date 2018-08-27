@@ -8,3 +8,7 @@ Some examples of learning Spring Cloud
 * ribbon地址 [http://localhost:8764/](http://localhost:8764/)
 ## chapter3
 * 通过feign，访问 rest service
+## chapter4 
+* ribbon Hystrix
+* feign Hystrix
+* 断路打开后，可用避免连锁故障，fallback方法可以直接返回一个固定值。

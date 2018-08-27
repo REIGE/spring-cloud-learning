@@ -12,8 +12,8 @@
 	<description>Demo project for Spring Boot</description>
 
 	<modules>
-		<module>eureka-server</module>
-		<module>service-hi</module>
+		<module>chapter2-eureka-server</module>
+		<module>chapter2-service-hi</module>
 		<module>chapter2-service-ribbon</module>
 	</modules>
 
