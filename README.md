@@ -12,3 +12,5 @@ Some examples of learning Spring Cloud
 * ribbon Hystrix
 * feign Hystrix
 * 断路打开后，可用避免连锁故障，fallback方法可以直接返回一个固定值。
+## chapter5
+* zuul
